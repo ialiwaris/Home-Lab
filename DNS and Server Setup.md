@@ -1,0 +1,3 @@
+# DNS and Server Setup...
+### This repository provides a complete guide to setting up a server and configuring DNS for the domain example.com. The repository includes all necessary commands and steps for professionals looking to deploy and manage a reliable server environment.
+## 
